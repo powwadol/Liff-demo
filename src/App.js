@@ -9,7 +9,7 @@ function App() {
     async function lf() {
       await liff
         .init({
-          liffId: "1657399474-wRBvOn9K", // Use own liffId
+          liffId: "XXXXXXXX", // Use own liffId
         })
         .catch((err) => {
           throw err;
